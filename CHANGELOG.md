@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.0.0...v1.1.0) (2023-05-10)
+
+
+### Features
+
+* including changelog as a part of readme ([#3](https://github.com/vinodh-jw/sample-version-package/issues/3)) ([de65ef7](https://github.com/vinodh-jw/sample-version-package/commit/de65ef76b2e4759b17c2cdde700d354c53264695))
+
 ## 1.0.0 (2023-05-10)
 
 
