@@ -1,6 +1,6 @@
 {
   "name": "sample-version-package",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "sample packege to test out release please",
   "main": "index.js",
   "scripts": {
