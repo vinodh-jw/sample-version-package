@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.2.0...v1.3.0) (2023-05-11)
+
+
+### Features
+
+* jIRA-1234 edits to readme ([#10](https://github.com/vinodh-jw/sample-version-package/issues/10)) ([250285d](https://github.com/vinodh-jw/sample-version-package/commit/250285d066b3c40b1085af6726ec747594ae415b))
+
 ## [1.2.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.1.0...v1.2.0) (2023-05-10)
 
 
