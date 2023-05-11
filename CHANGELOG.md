@@ -1,5 +1,25 @@
 # Changelog
 
+## [1.3.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.2.0...v1.3.0) (2023-05-11)
+
+
+### Features
+
+* jIRA-1234 edits to readme ([#10](https://github.com/vinodh-jw/sample-version-package/issues/10)) ([250285d](https://github.com/vinodh-jw/sample-version-package/commit/250285d066b3c40b1085af6726ec747594ae415b))
+
+## [1.2.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.1.0...v1.2.0) (2023-05-10)
+
+
+### Features
+
+* adding commitlint and husky ([#9](https://github.com/vinodh-jw/sample-version-package/issues/9)) ([b88c414](https://github.com/vinodh-jw/sample-version-package/commit/b88c414985873dd4cdddcd6edbf42801a4ceccb8))
+
+
+### Bug Fixes
+
+* adding additional info to index script ([#6](https://github.com/vinodh-jw/sample-version-package/issues/6)) ([45eb849](https://github.com/vinodh-jw/sample-version-package/commit/45eb84989427e2b3e08cbcab179b42275c151355))
+* cleaning up the readme ([#5](https://github.com/vinodh-jw/sample-version-package/issues/5)) ([f656a61](https://github.com/vinodh-jw/sample-version-package/commit/f656a613d9e764c523ea951cedb76706482cc8be))
+
 ## [1.1.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.0.0...v1.1.0) (2023-05-10)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "sample-version-package",
-  "version": "1.1.0",
+  "version": "1.3.0",
   "description": "sample packege to test out release please",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^17.6.3",
+    "@commitlint/config-conventional": "^17.6.3",
     "commitizen": "^4.3.0",
-    "cz-conventional-changelog": "^3.3.0"
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^8.0.3"
   },
   "config": {
     "commitizen": {
