@@ -1,4 +1,4 @@
 function logStatement (msg, type) {
-    var msgStyle = "color:red;"
-    console.log("%s"+msg, msgStyle);
+    var msgStyle = type ? "color:red;" : "color:blue;";
+    console.log("%c"+msg, msgStyle);
 }
