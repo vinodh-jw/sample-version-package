@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.4.0-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.3.0...v1.4.0-alpha.0) (2023-05-17)
+
+
+### Features
+
+* Added Utils file with basic Log Function ([#14](https://github.com/vinodh-jw/sample-version-package/issues/14)) ([bd0dd4d](https://github.com/vinodh-jw/sample-version-package/commit/bd0dd4dd5fc33ddf401674c206e7704400a37558))
+* adding formatter function ([#21](https://github.com/vinodh-jw/sample-version-package/issues/21)) ([f8719a3](https://github.com/vinodh-jw/sample-version-package/commit/f8719a3c8f441918ed3dfd9a72684c1e70b465a8))
+* including pre-release with version ([a15ac23](https://github.com/vinodh-jw/sample-version-package/commit/a15ac238e9c7221fdc027dbdb21eb26808d8fd35))
+
+
+### Bug Fixes
+
+* **adding postinstall script to install husky for all:** ensuring husky postinstall commit hooks ([#16](https://github.com/vinodh-jw/sample-version-package/issues/16)) ([9913f1e](https://github.com/vinodh-jw/sample-version-package/commit/9913f1e4ba3366b4aab80d752ca84a19587c6658))
+
+
+### Miscellaneous Chores
+
+* release 1.4.0-alpha.0 ([ab24170](https://github.com/vinodh-jw/sample-version-package/commit/ab2417034af23328914f6b0b0d7b43340ebdd8e1))
+
 ## [1.3.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.2.0...v1.3.0) (2023-05-11)
 
 
