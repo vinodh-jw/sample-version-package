@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v2.0.0-alpha.0...v2.1.0-alpha.0) (2023-05-18)
+
+
+### Features
+
+* removing prerelease tag from release please ([#25](https://github.com/vinodh-jw/sample-version-package/issues/25)) ([9636f99](https://github.com/vinodh-jw/sample-version-package/commit/9636f99e5c43a3bf851f3cef179aecc7f6552064))
+
 ## [2.0.0-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.4.0-alpha.0...v2.0.0-alpha.0) (2023-05-18)
 
 
