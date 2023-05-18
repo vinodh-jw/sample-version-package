@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.4.0-alpha.0...v2.0.0-alpha.0) (2023-05-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* test out breaking change
+
+### Code Refactoring
+
+* refactoring index files to test out refactor type ([#23](https://github.com/vinodh-jw/sample-version-package/issues/23)) ([8fae087](https://github.com/vinodh-jw/sample-version-package/commit/8fae08782b3272aeadb54af332aa5aa0e78bfdd5))
+
 ## [1.4.0-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v1.3.0...v1.4.0-alpha.0) (2023-05-17)
 
 
