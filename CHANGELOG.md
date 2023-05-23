@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.1.1-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v2.1.0-alpha.0...v2.1.1-alpha.0) (2023-05-23)
+
+
+### Bug Fixes
+
+* console logging fixes ([#32](https://github.com/vinodh-jw/sample-version-package/issues/32)) ([9ad81cb](https://github.com/vinodh-jw/sample-version-package/commit/9ad81cbbde7b56654772e3ee556e82a32a622b64))
+* first commit ([bb3919a](https://github.com/vinodh-jw/sample-version-package/commit/bb3919aa1cfc8e5826d5c9a9caabe692d1effc97))
+* **index:** adding log ([#33](https://github.com/vinodh-jw/sample-version-package/issues/33)) ([e9a9a7a](https://github.com/vinodh-jw/sample-version-package/commit/e9a9a7a9cb49c0e78e54f053f1697f86e389a8ee))
+* remove unnecessary adds ([#31](https://github.com/vinodh-jw/sample-version-package/issues/31)) ([26a08d5](https://github.com/vinodh-jw/sample-version-package/commit/26a08d57309a58e1a735ec84be43ad0defa3d515))
+* second commit ([707c1ef](https://github.com/vinodh-jw/sample-version-package/commit/707c1efae2f7693e0d9ddedf05a18b29044b8f46))
+
 ## [2.1.0-alpha.0](https://github.com/vinodh-jw/sample-version-package/compare/v2.0.0-alpha.0...v2.1.0-alpha.0) (2023-05-18)
 
 
